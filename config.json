@@ -58,6 +58,13 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "rest-apis-with-fastapi",
+      "title": "REST APIs with FastAPI",
+      "description": "Build a simple REST API with FastAPI using endpoints, parameters, and JSON responses.",
+      "path": "assignments/rest-apis-with-fastapi",
+      "dueDate": "2026-05-04"
     }
   ]
 }
